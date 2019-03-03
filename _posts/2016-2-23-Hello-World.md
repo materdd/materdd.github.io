@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Biohack academy 6 - methylation analysis -
 ---
 
 # Title
