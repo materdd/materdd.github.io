@@ -7,9 +7,10 @@ title: Environmental DNA x Fishing
 I love fishing and I can't catch a fish at all sometimes. At that time, I'm wondering i can see inside of water.
 And I made a robot lure with a camera, but it can detect fishes only close to the camera.
 
+<div style="text-align: center;">
 [<img src="{{ site.baseurl }}/images/fishing_1.png" alt="" style="width: 400px;"/>]({{ site.baseurl }}/)
+</div>
 
-[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 400px;"/>]({{ site.baseurl }}/)
 
 # Projects
 
