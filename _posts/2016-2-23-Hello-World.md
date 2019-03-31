@@ -7,9 +7,8 @@ title: Biohack academy 6 - Environmental DNA x Fishing -
 I love fishing and I can't catch a fish at all sometimes. At that time, I'm wondering i can see inside of water.
 And I made a robot lure with a camera
 
-<div align="center">
 [<img src="{{ site.baseurl }}/images/fishing_1.jpg"  style="width: 400px;"/>]({{ site.baseurl }}/)
-</div>
+
 
 # Projects
 
