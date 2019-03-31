@@ -8,7 +8,7 @@ I love fishing and I can't catch a fish at all sometimes. At that time, I'm wond
 And I made a robot lure with a camera, but it can detect fishes only close to the camera.
 
 <div style="text-align: center;">
-[<img src="{{ site.baseurl }}/images/fishing_1.png" alt="" style="width: 400px;"/>]({{ site.baseurl }}/)
+<img src="{{ site.baseurl }}/images/fishing_1.png" alt="" style="width: 400px;"/>{{ site.baseurl }}
 </div>
 
 
