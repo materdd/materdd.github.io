@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biohack academy 6 - methylation analysis -
+title: Biohack academy 6 - Environmental DNA x Fishing -
 ---
 
 # Background
