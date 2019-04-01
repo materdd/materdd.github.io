@@ -38,6 +38,4 @@ At first, we need to take water from the sea, keep it cold as much as possible a
 
 
 ## Results
-
-
-[link to google](www.google.com)
+under developing
