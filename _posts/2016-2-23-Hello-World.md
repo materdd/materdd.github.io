@@ -23,7 +23,7 @@ But environmental DNA(eDNA) have a lot of potentials. eDNA fingerprinting can re
 </p>
 
 # Projects
-Map fish distributions in Tokyo for environmental protection, especially for rockfish. They are getting decrease because of many anglers and landfills.
+I will map fish distributions in Tokyo for environmental protection, especially for rockfish. They are getting decrease because of many anglers and landfills. The problem is that noone can't see inside of water. That's why people catch a lot of fishes. eDNA have power to resolve this problem.
 
 
 ## Subtitle
