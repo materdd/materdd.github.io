@@ -13,13 +13,18 @@ I love fishing and I can't catch a fish at all sometimes. At that time, I'm wond
 And I made a robot lure with a camera, but it can detect fishes only close to the camera. And cameras can't quantitatively estimate the number of fishes.
 
 <p style="text-align:center;">
-<img src="{{ site.baseurl }}/images/fishing_2.png" alt="" style="width: 300px;"/>{{ site.baseurl }}
+<img src="{{ site.baseurl }}/images/fishing_2.png" alt="" style="width: 500px;"/>{{ site.baseurl }}
 </p>
 
 But environmental DNA(eDNA) have a lot of potentials. eDNA fingerprinting can reveal which species of fish were recently swimming there with fish’s skin, excreta and so on.
 
+<p style="text-align:center;">
+<img src="{{ site.baseurl }}/images/edna_1.png" alt="" style="width: 500px;"/>{{ site.baseurl }}
+</p>
 
 # Projects
+Map fish distributions in Tokyo for environmental protection, especially for rockfish. They are getting decrease because of many anglers and landfills.
+
 
 ## Subtitle
 
