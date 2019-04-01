@@ -23,8 +23,11 @@ But environmental DNA(eDNA) have a lot of potentials. eDNA fingerprinting can re
 </p>
 
 # Projects
-I will map fish distributions in Tokyo for environmental protection, especially for rockfish. They are getting decrease because of many anglers and landfills. The problem is that noone can't see inside of water. That's why people catch a lot of fishes, which results in overfishing. eDNA have a power to resolve this problem.
+I will map fish distributions in Tokyo for environmental protection, especially for rockfish. Rockfish glows slowly and live at same place. They are getting decrease because of many anglers and landfills. The problem is that noone can't see inside of water. That's why people catch a lot of fishes, which results in overfishing. eDNA have a power to resolve this problem.
 
+<p style="text-align:center;">
+<img src="{{ site.baseurl }}/images/edna_0.jpg" alt="" style="width: 300px;"/>{{ site.baseurl }}
+</p>
 
 ## Procedure
 At first, we need to take water from the sea, keep it cold as much as possible and  bring back to a lab. Then, we filter the water with a glass filter. But it contains several stuff like sands, so we need to extract only DNA with some reagents. Finally we amplify DNA by PCR and visualize with an electrophoresis.
@@ -36,6 +39,5 @@ At first, we need to take water from the sea, keep it cold as much as possible a
 
 ## Results
 
-**bold**
 
 [link to google](www.google.com)
