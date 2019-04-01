@@ -27,7 +27,11 @@ I will map fish distributions in Tokyo for environmental protection, especially 
 
 
 ## Procedure
+At first, we need to take water from the sea, keep it cold as much as possible and  bring back to a lab. Then, we filter the water with a glass filter. But it contains several stuff like sands, so we need to extract only DNA with some reagents. Finally we amplify DNA by PCR and visualize with an electrophoresis.
 
+<p style="text-align:center;">
+<img src="{{ site.baseurl }}/images/edna_2.png" alt="" style="width: 500px;"/>{{ site.baseurl }}
+</p>
 
 
 ## Results
